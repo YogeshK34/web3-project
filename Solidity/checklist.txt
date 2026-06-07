@@ -1,0 +1,6 @@
+@. Deploy a contract by my own Metamask wallet 
+@. Copy the ABI and the contract address store them in a file 
+@. Write the code to connect to Metamask (because I can directly read without having to modify the state, 
+but I cannot modify the state, which is my whole motive and to see real Eth getting deducted! )
+@. Understand the Connection to Metamask & Ethers.js usage
+@. The actual connection interaction between frontend -> contract
